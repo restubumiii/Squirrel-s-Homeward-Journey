@@ -4,6 +4,6 @@ a. Game konsep dokumen:
 
 b. Video teaser:
 
-c. File Aplikasi: https://drive.google.com/file/d/1ONjQ_FCOBtBSIUQlg8JUP53Mu_sGiGlz/view?usp=sharing
+c. File Aplikasi (zip & exe): https://drive.google.com/drive/folders/1XIm5bIzRxKn4HZ8sgpUwkznGjjGEehvI?usp=sharing
 
 d. Full file Assets/Sprites/Environments/Background (terlimit max 1000 files di github): https://drive.google.com/drive/folders/1p5HWKDJHzOeAdzo-v2SutvRRNW3kN-XJ?usp=sharing
